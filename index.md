@@ -1,6 +1,5 @@
 # Seth's new website on github
-- thing one
-- thing two
+- [Competitive Programming Class](CompetitiveProg)
 
 
 [Web site at University at Albany CS Dept](http://www.cs.albany.edu/~sdc)
