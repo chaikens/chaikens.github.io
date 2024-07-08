@@ -1,5 +1,4 @@
 # Seth's new website on github
-- [Competitive Programming Class](CompetitiveProg)
 
 [Reality confronting a simulation](https://www.youtube.com/watch?v=WlEzvdlYRes)
 
