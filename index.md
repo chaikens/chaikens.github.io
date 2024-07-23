@@ -1,7 +1,6 @@
 # Seth's new website on github
 
-[Seth Chaiken's work on Research Gate]
-(https://www.researchgate.net/profile/Seth-Chaiken/research)
+[Seth Chaiken's work on Research Gate](https://www.researchgate.net/profile/Seth-Chaiken/research)
 
 [Reality confronting a simulation](https://www.youtube.com/watch?v=WlEzvdlYRes)
 
