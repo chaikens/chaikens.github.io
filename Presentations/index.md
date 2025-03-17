@@ -13,9 +13,7 @@ AMS Regional Meeting, Binghamton (Oct. 13, 2019),
 Restricted or Ported Tutte Decomposion and
 Analogs of All-Minors Laplacian Expansions
 (accumulated corrections, additions, revisions)
-[slides](Restricted or Ported Tutte Decomposion and
-Analogs of All-Minors Laplacian Expansions
-(accumulated corrections, additions, revisions)
+[slides](AMS2019talkNotesAdded.pdf)
 [abstract](AMS2019abstract.pdf)
 
 
