@@ -29,5 +29,10 @@ Circuits (March 2, 2015) [slides](Mar2015Talk.pdf)
 
 
 
+An Extensor Tree Theorem and a Tutte Identity
+for Graphs with Distinguished Port Edges, 
+at the workshop on Combinatorial Identities and their Applications in Statistical Mechanics CSMW03, Isaac Newton [Institute](https://www.newton.ac.uk/)
+(April 7-11 2008) [slides](NewtonInstTalk2008.pdf))
+
 
 
