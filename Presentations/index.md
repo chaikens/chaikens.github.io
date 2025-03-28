@@ -5,6 +5,12 @@ ICERM Matroids, Rigidity, and Algebraic Statistics [Workshop](https://icerm.brow
 [Transcript](LightningBrown2025Article.pdf)
 [(background)](https://arxiv.org/abs/math/0605707)
 
+The background about electrical networks and oriented matroids is discussed in
+Oriented matroid pairs, theory and an electric application, in
+Matroid theory (Seattle, WA, 1995), volume 197 of Contemp. Math., pages
+313–331. Amer. Math. Soc., Providence, RI, 1996. [Article](Oriented_Matroid_Pairs_Theory_and_an_Electric_Appl.pdf)
+
+
 
 Discrete Math Day at Smith College (May 2023)
 An Exterior Algebra Valued Tutte Function on Linear Matroids or their Pairs,
