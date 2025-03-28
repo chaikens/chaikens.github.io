@@ -18,3 +18,16 @@ Analogs of All-Minors Laplacian Expansions
 [abstract](AMS2019abstract.pdf)
 
 
+Resistive Networks, Linear Spaces and Tutte
+Polynomials
+for Systems of Lines: Applications of Algebraic
+Combinatorics Workshop
+Worcester Polytechnic Institute (August 14, 2015) [slides](Lines15.pdf)
+
+Ported or Relative Oriented Matroids and Electric
+Circuits (March 2, 2015) [slides](Mar2015Talk.pdf)
+
+
+
+
+
