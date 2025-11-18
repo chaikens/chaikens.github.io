@@ -1,14 +1,15 @@
 # Presentations
 
 
-University at Albany Analysis and Data Science 
-[Colloquium](https://albanymath.github.io/adss/AnalysisSeminar) Nov 18, 2025, Surveying Michael Levit's Latent Platonic Space
-[Slides with some talk script](LevinNov2025WithNotes.pdf)
-[Slides only](LevinNov2025Slides.pdf)
+University at Albany 
+[Mathematics and Statistics Dept. Analysis and Data Science](https://www.albany.edu/math) 
+[(Colloquium)](https://albanymath.github.io/adss/AnalysisSeminar) Nov 18, 2025, Surveying Michael Levit's Latent Platonic Space
+[(Slides with some talk script)](LevinNov2025WithNotes.pdf)
+[(Slides only)](LevinNov2025Slides.pdf)
 
 ICERM Matroids, Rigidity, and Algebraic Statistics [Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2)
 (Mar 17 - 21, 2025), An Exterior Algebra Valued Tutte Function on Linear Matroid Pairs Lightning Talk (Transcript includes abstract, slides and speech script)
-[Transcript](LightningBrown2025Article.pdf)
+[(Transcript)](LightningBrown2025Article.pdf)
 [(background)](https://arxiv.org/abs/math/0605707)
 
 The background about electrical networks and oriented matroids is discussed in
@@ -26,8 +27,8 @@ AMS Regional Meeting, Binghamton (Oct. 13, 2019),
 Restricted or Ported Tutte Decomposion and
 Analogs of All-Minors Laplacian Expansions
 (accumulated corrections, additions, revisions)
-[slides](AMS2019talkNotesAdded.pdf)
-[abstract](AMS2019abstract.pdf)
+[(slides)](AMS2019talkNotesAdded.pdf)
+[(abstract)](AMS2019abstract.pdf)
 
 
 Resistive Networks, Linear Spaces and Tutte
@@ -45,6 +46,5 @@ An Extensor Tree Theorem and a Tutte Identity
 for Graphs with Distinguished Port Edges, 
 at the workshop on Combinatorial Identities and their Applications in Statistical Mechanics CSMW03, Isaac Newton [Institute](https://www.newton.ac.uk/)
 (April 7-11 2008) [slides](NewtonInstTalk2008.pdf))
-
 
 
