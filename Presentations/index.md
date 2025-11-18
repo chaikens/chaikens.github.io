@@ -1,5 +1,11 @@
 # Presentations
 
+
+University at Albany Analysis and Data Science 
+[Colloquium](https://albanymath.github.io/adss/AnalysisSeminar) Nov 18, 2025, Surveying Michael Levit's Latent Platonic Space
+[Slides with some talk script](LevinNov2025WithNotes.pdf)
+[Slides only](LevinNov2025Slides.pdf)
+
 ICERM Matroids, Rigidity, and Algebraic Statistics [Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2)
 (Mar 17 - 21, 2025), An Exterior Algebra Valued Tutte Function on Linear Matroid Pairs Lightning Talk (Transcript includes abstract, slides and speech script)
 [Transcript](LightningBrown2025Article.pdf)
