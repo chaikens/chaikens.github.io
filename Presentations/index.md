@@ -2,8 +2,9 @@
 
 
 University at Albany 
-[Mathematics and Statistics Dept. Analysis and Data Science](https://www.albany.edu/math) 
-[(Colloquium)](https://albanymath.github.io/adss/AnalysisSeminar) Nov 18, 2025, Surveying Michael Levit's Latent Platonic Space
+[(Mathematics and Statistics Dept.)](https://www.albany.edu/math) 
+[(Analysis and Data Science Colloquium)](https://albanymath.github.io/adss/AnalysisSeminar) 
+Nov 18, 2025, Surveying Michael Levit's Latent Platonic Space
 [(Slides with some talk script)](LevinNov2025WithNotes.pdf)
 [(Slides only)](LevinNov2025Slides.pdf)
 
