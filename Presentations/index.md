@@ -6,6 +6,7 @@
 [(Analysis and Data Science Colloquium)](https://albanymath.github.io/adss/AnalysisSeminar) 
 Nov 18, 2025, Surveying Michael Levit's Latent Platonic Space
 [(Slides with some talk script)](LevinNov2025WithNotes.pdf)
+[(Audio to go with slides)](SChaikenTalkOnLevinNov182025.mp3)
 [(Slides only)](LevinNov2025Slides.pdf)
 
 * ICERM Matroids, Rigidity, and Algebraic Statistics [Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2)
@@ -24,7 +25,7 @@ Matroid theory (Seattle, WA, 1995), volume 197 of Contemp. Math., pages
 An Exterior Algebra Valued Tutte Function on Linear Matroids or their Pairs,
 [poster](SmithMay23.pdf)
 
-* AMS Regional Meeting, Binghamton (Oct. 13, 2019),
+ * AMS Regional Meeting, Binghamton (Oct. 13, 2019),
 Restricted or Ported Tutte Decomposion and
 Analogs of All-Minors Laplacian Expansions
 (accumulated corrections, additions, revisions)
